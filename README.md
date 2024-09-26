@@ -2,6 +2,8 @@
 
 **Task-Desk** is a robust and efficient to-do list application built using the Laravel framework. This project is designed to help users manage their daily tasks and improve productivity by offering a clean and intuitive interface for task management.
 
+https://github.com/user-attachments/assets/893ac249-6e6f-434b-8dba-0c63f54f2f2b
+
 ## Features
 - **Task Management:** Create, read, update, and delete tasks with ease.
 - **User Authentication:** Secure login and registration system for personalized task management.
